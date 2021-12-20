@@ -23,7 +23,7 @@
  * @package    Stream_Wrapper
  * @subpackage UnitTests
  */
-class Horde_Stream_Wrapper_CombineTest extends PHPUnit_Framework_TestCase
+class Horde_Stream_Wrapper_CombineTest extends \PHPUnit\Framework\TestCase
 {
     public function testUsage()
     {
